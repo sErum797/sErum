@@ -1,1 +1,0 @@
-workerk: python bot.py
